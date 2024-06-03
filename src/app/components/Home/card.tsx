@@ -20,7 +20,7 @@ export const Cards = () => {
                      as={Link}
                      variant="bordered"
                      color="danger"
-                     href="/register"
+                     href="https://app.sharex.kz/register"
                      className="min-w-44 font-semibold hover:bg-danger hover:text-white"
                   >
                      Начать продавать
@@ -44,7 +44,7 @@ export const Cards = () => {
                      as={Link}
                      color="danger"
                      variant="shadow"
-                     href="/register"
+                     href="https://app.sharex.kz/register"
                      className="min-w-44 font-semibold"
                   >
                      Быть первым!

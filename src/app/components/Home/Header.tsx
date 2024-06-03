@@ -59,7 +59,7 @@ export default function Header() {
             <NavbarItem className="ml-10">
                <Link
                   className="text-black font-semibold hover:text-danger"
-                  href="/login"
+                  href="https://app.sharex.kz/login"
                >
                   Вход
                </Link>
@@ -68,7 +68,7 @@ export default function Header() {
                <Button
                   as={Link}
                   color="danger"
-                  href="/register"
+                  href="https://app.sharex.kz/register"
                   variant="bordered"
                   className="font-semibold hover:bg-danger hover:text-white hidden md:flex"
                >
