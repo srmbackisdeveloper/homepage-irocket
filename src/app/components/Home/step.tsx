@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export const Step = () => {
    return (
-      <div className="mt-[6em] p-10 grid lg:grid-cols-2 justify-center items-center" id='step'>
+      <div className="pt-24 p-10 grid lg:grid-cols-2 justify-center items-center" id='step'>
          <div className="grid justify-center items-center">
             <h2 className="text-4xl font-semibold text-center">
                С чего начать?

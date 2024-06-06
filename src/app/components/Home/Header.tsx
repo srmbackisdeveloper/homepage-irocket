@@ -39,7 +39,7 @@ export default function Header() {
    };
 
    return (
-      <Navbar isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen}>
+      <Navbar isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen} isBlurred={false}>
          <NavbarContent>
             <div className="grid lg:ml-[-5em] mt-[1em]">
                <div className="flex items-center pb-4">

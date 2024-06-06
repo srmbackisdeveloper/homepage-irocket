@@ -6,7 +6,7 @@ import Image from 'next/image';
 
 export const Offer = () => {
     return (
-        <div className="md:pt-[6em] p-10" id='offer'>
+        <div className="md:pt-24 pt-24 p-10" id='offer'>
             <h2 className="text-4xl font-semibold text-center">
                 Что мы предлагаем?
             </h2>
