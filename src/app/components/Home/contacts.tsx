@@ -17,9 +17,9 @@ export const Contacts = () => {
                   <CardBody className="gap-4">
                      <a
                         className="text-2xl font-bold text-danger text-center"
-                        href="tel:+77774794422"
+                        href="tel:+77477174422"
                      >
-                        +7 777 479 4422
+                        +7 747 717 4422
                      </a>
                      <p className="font-semibold text-center">
                         Лучший способ получить быстрый ответ!
@@ -34,7 +34,7 @@ export const Contacts = () => {
                         className="text-2xl font-bold text-danger text-center"
                         href="mailto:test@test.com"
                      >
-                        test@test.com
+                        irocket.kz@mail.ru
                      </a>
                      <p className="font-semibold text-center">
                         Отвечаем в рабочее время в течении 10 минут

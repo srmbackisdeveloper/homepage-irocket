@@ -51,7 +51,7 @@ export const Faq = () => {
                      className=" font-bold text-large"
                   >
                      <p className="text-sm font-semibold">
-                        Бот обходит все Ваши товары раз в 5-10 минут и
+                        Бот обходит все Ваши товары раз в 3-4 минут и
                         моментально отправляет запрос на KASPI с новой ценой.
                      </p>
                   </AccordionItem>
