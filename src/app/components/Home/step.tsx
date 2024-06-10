@@ -36,7 +36,7 @@ export const Step = () => {
                as={Link}
                color="danger"
                variant="shadow"
-               href='https://app.sharex.kz/register'
+               href='https://app.irocket.kz/register'
                className="min-w-44 font-semibold mt-10"
             >
                Зарегистрироваться

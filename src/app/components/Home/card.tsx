@@ -17,7 +17,7 @@ export const Cards = () => {
                             as={Link}
                             color="danger"
                             variant="ghost"
-                            href="https://app.sharex.kz/register"
+                            href="https://app.irocket.kz/register"
                             className="min-w-44 font-semibold hover:opacity-100"
                         >
                             Начать продавать
@@ -38,7 +38,7 @@ export const Cards = () => {
                             as={Link}
                             variant="ghost"
                             color="danger"
-                            href="https://app.sharex.kz/register"
+                            href="https://app.irocket.kz/register"
                             className="min-w-44 font-semibold hover:opacity-100"
                         >
                             Увеличить продажи
@@ -59,7 +59,7 @@ export const Cards = () => {
                             as={Link}
                             variant="ghost"
                             color="danger"
-                            href="https://app.sharex.kz/register"
+                            href="https://app.irocket.kz/register"
                             className="min-w-44 font-semibold hover:opacity-100"
                         >
                             Повысить прибыль
@@ -82,7 +82,7 @@ export const Cards = () => {
                             as={Link}
                             color="danger"
                             variant="shadow"
-                            href="https://app.sharex.kz/register"
+                            href="https://app.irocket.kz/register"
                             className="min-w-44 font-semibold"
                         >
                             Быть первым!
