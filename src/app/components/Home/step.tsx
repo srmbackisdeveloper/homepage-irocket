@@ -38,6 +38,7 @@ export const Step = () => {
                variant="shadow"
                href='https://app.irocket.kz/register'
                className="min-w-44 font-semibold mt-10"
+               size='lg'
             >
                Зарегистрироваться
             </Button>

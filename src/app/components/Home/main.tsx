@@ -21,8 +21,9 @@ export const Main = () => {
                      variant="shadow"
                      href='https://app.irocket.kz/register'
                      className="min-w-44 font-semibold"
+                     size='lg'
                   >
-                     Попробовать
+                     Попробовать бесплатно
                   </Button>
                   <p className="font-semibold text-center">
                      Не упустите шанс увеличить свои продажи и обеспечить
