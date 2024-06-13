@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://irocket.kz
+
+# Sitemaps
+Sitemap: https://irocket.kz/sitemap.xml
