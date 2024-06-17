@@ -4,9 +4,9 @@ import Image from 'next/image';
 
 export const Team = () => {
    return (
-      <div className="mt-[6em] p-10" id='team'>
+      <div className="pt-[6em] p-10" id='team'>
          <h2 className="text-4xl font-semibold text-center">Наша команда</h2>
-         <div className="flex gap-10 justify-center items-center py-10">
+         <div className="flex md:gap-24 gap-6 justify-center items-center py-10">
             <div>
                <Image
                   src={AvatarImage}
